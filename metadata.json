@@ -1,0 +1,8 @@
+{
+  "name": "Cambio Brasil",
+  "description": "Conversor rápido de Reales a Pesos Uruguayos y Dólares con calculadora en pantalla para viajar a Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

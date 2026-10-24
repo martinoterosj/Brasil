@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cambio Brasil</string>
+    <string name="brazil_flag_desc">Bandera de Brasil</string>
+    <string name="uruguay_flag_desc">Bandera de Uruguay</string>
+    <string name="usa_flag_desc">Bandera de Estados Unidos</string>
+    <string name="currency_brl">Real Brasileño</string>
+    <string name="currency_uyu">Peso Uruguayo</string>
+    <string name="currency_usd">Dólar Estadounidense</string>
+    <string name="rates_title">Cotizaciones</string>
+    <string name="edit_rates">Editar cotizaciones</string>
+    <string name="update_online">Actualizar cotizaciones</string>
+    <string name="reset_defaults">Restablecer valores</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="subtitle">Reales ⇄ Pesos &amp; Dólares</string>
+</resources>
